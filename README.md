@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Moosa — AI Systems Architect HUD" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=MOOSA+%7C+AI+Systems+Architect;Full-Stack+SaaS+Builder+(FastAPI+%2B+Next.js);Real-Time+Computer+Vision+%26+RAG+Pipelines;Engineering+Zero-Trust+FinTech+Ledgers" alt="Typing SVG" />
 </p>
 
 <br />
