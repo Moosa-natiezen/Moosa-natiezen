@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💳 Shenzhen FinTech SF Assistant</h4>
+      <h4>💳 <a href="https://github.com/Moosa-natiezen/Shenzhen-FinTech-SF-Assistant">Shenzhen FinTech Assistant</a></h4>
       <p>
         Zero-trust cross-border student finance &amp; tuition platform featuring atomic <code>BigInt</code> double-entry ledger locks, a scaled-BigInt <em>R<sub>score</sub></em> credit engine, <code>pgcrypto</code> AES-256-GCM encryption, and a Metro-2 export enclave.
       </p>
