@@ -82,6 +82,14 @@
 
 <br />
 
+### Commit Skyline
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" />
+</p>
+
+<br />
+
 ### Telemetry & Elsewhere
 
 - **Base:** Computer Science Undergraduate in İzmir, Türkiye (`UTC+3`)
