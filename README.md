@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Moosa — AI Systems Architect HUD" width="100%" />
+  <img src="https://raw.githubusercontent.com/Moosa-natiezen/Moosa-natiezen/main/header.svg" alt="Moosa — AI Systems Architect HUD" width="100%" />
 </p>
 
 <br />
